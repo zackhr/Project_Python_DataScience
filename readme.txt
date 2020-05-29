@@ -1,7 +1,7 @@
 https://nbviewer.jupyter.org/github/zackhr/Project_Python_DataScience/blob/master/PROJET%20PYTHON%20DEMOGRAPHIE%20%20.ipynb
 
 
-Programmation Python pour Data Science automatisation avec selenium web-driver
+Programmation Python pour Data Science 
 Objectifs et données :
 Le projet porte sur le traitement d’un jeu de données du recensement général de la population et de l’habitat de 2004 (RGPH2004) de la région Marrakech-Tensift-Al Haouz selon le découpage administratif de cet époque (un nouveau découpage administratif a été adopté en 2009).
 L’objectif de ce projet est de traiter et d’analyser les données démographiques des communes de cette région à travers le langage python et ses librairies afin de répondre aux questions posées ci-dessous.
